@@ -1,9 +1,4 @@
-const user = {
-    name: 'Анна',
-    age: 25,
-    city: 'Москва'
-};
+"use strict";
 
-let { name, age, city } = user;
 
-console.log(name, age, city);
+
